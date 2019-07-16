@@ -1,0 +1,13 @@
+.form-css {
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.input-css{
+    width: 200px;
+    margin-right: 10px;
+}
